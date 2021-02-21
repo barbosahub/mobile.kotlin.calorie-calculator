@@ -5,11 +5,11 @@
 ## Realizando consulta
 
 <p align="justify">
-O desenvolvimento do aplicativo foi um simples cálculo para perder 1kl por semana.
+O desenvolvimento do aplicativo foi um simples cálculo de consumo de calorias diário para perder 1kl por semana.
 </p>
 
 <p align="left">
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/create.jpeg" width="200" alt="Create com retrofit" style=" border: 5px solid #555">
+  <img src="https://github.com/barbosahub/BC-Kotlin_Calculator.01/blob/main/app/src/main/res/drawable/gif.gif" width="200" alt="Create com retrofit" style=" border: 5px solid #555">
 </p>
 
 ## Sobre
