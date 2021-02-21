@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+
+    <!--    Title   -->
+    <string name="title">Calorie Calculator</string>
+    <!--    SubTitle   -->
+    <string name="gender">Gender</string>
+
+    <!--    Height   -->
+    <string name="height">Height</string>
+    <!--    weight">Weight   -->
+    <string name="weight">Weight</string>
+
+    <!--    Age   -->
+    <string name="age">Age</string>
+
+    <!--    Activity Level   -->
+    <string name="activity">Activity Level</string>
+
+    <!--    Result   -->
+    <string name="result">Your Result</string>
+
+
+
+
+</resources>
