@@ -44,14 +44,14 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:drawableRight="@drawable/ic_male"
-                        android:text="Male" />/>
+                        android:text="Masculino" />/>
 
                     <RadioButton
                         android:id="@+id/rb_f"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:drawableRight="@drawable/ic_female"
-                        android:text="Female" />
+                        android:text="Feminino" />
 
                 </RadioGroup>
 
@@ -193,7 +193,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/button_bg"
-                    android:text="Result"
+                    android:text="Calcular"
                     android:textColor="@color/white"/>
             </LinearLayout>
 
@@ -220,7 +220,7 @@
                     android:id="@+id/txtText"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Calories per day:"
+                    android:text="Caloria diária necessária:"
                     android:fontFamily="@font/open_sans_regular"
                     android:textColor="@color/white"
                     android:layout_marginTop="10dp"

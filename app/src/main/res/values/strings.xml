@@ -1,27 +1,27 @@
 <resources>
-    <string name="app_name">Calorie Calculator</string>
+    <string name="app_name">CGC</string>
 
     <!--    Title   -->
-    <string name="title">Calorie Calculator</string>
+    <string name="title">Calculadora do gasto calórico</string>
     <!--    SubTitle   -->
-    <string name="gender">Gender</string>
+    <string name="gender">Sexo</string>
 
     <!--    Height   -->
-    <string name="height">Height</string>
+    <string name="height">Altura</string>
     <!--    weight">Weight   -->
-    <string name="weight">Weight</string>
+    <string name="weight">Peso</string>
 
     <!--    Age   -->
-    <string name="age">Age</string>
+    <string name="age">Idade</string>
 
     <!--    SeekBar   -->
-    <string name="seek">Body Weight Planner:</string>
+    <string name="seek">Objetivo de peso:</string>
 
     <!--    Activity Level   -->
-    <string name="activity">Activity Level</string>
+    <string name="activity">Atividade</string>
 
     <!--    Result   -->
-    <string name="result">Your Result</string>
+    <string name="result">Resultado</string>
 
 
 

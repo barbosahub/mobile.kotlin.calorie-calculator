@@ -1,11 +1,11 @@
-## Descrição do Projeto
-<p align="justify"> Objetivo do bootcamp: Criar calculadora de défict calórico
+# Descrição do Projeto
+<p align="justify"> Objetivo do bootcamp: Criar calculadora de déficit calórico
 </p>
 
 ## Realizando consulta
 
 <p align="justify">
-O desenvolvimento do aplicativo foi um simples cálculo de consumo de calorias diário para perder 1kl por semana.
+O desenvolvimento do aplicativo foi um simples cálculo de consumo de calorias diário utilizando MVVM
 </p>
 
 <p align="left">
